@@ -1,0 +1,9 @@
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\bin\Debug\WindowsFormsDz_1_5.exe.config
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\bin\Debug\WindowsFormsDz_1_5.exe
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\bin\Debug\WindowsFormsDz_1_5.pdb
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\obj\Debug\WindowsFormsDz_1_5.csprojResolveAssemblyReference.cache
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\obj\Debug\WindowsFormsDz_1_5.Properties.Resources.resources
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\obj\Debug\WindowsFormsDz_1_5.csproj.GenerateResource.Cache
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\obj\Debug\WindowsFormsDz_1_5.exe
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\obj\Debug\WindowsFormsDz_1_5.pdb
+E:\ItStep\WindowsFormsDz_1\WindowsFormsDz_1_5\obj\Debug\WindowsFormsDz_1_5.Form1.resources
